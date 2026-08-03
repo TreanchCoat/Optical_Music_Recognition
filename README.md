@@ -68,4 +68,4 @@ After a successful pipeline run, the output directory will contain:
 - `diagnostics/` / `tests/` — Ad-hoc dev scripts and regression tests.
 
 ## Note
-- mecause of the file size, the U-net model (staff detector for scanned scores) isn't uploaded. On regular mode system should work just fine
+- because of the file size, the U-net model(staff detector for rectified mode) isn't uploaded. On regular mode system should work just fine
