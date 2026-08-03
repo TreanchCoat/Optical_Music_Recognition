@@ -1,0 +1,61 @@
+{
+  "image": "test_subject_staff03_clean.png",
+  "total_detections": 5,
+  "detections": [
+    {
+      "class_id": 22,
+      "class_name": "timeSigCommon",
+      "conf": 0.2092,
+      "x1": 104,
+      "y1": 31,
+      "x2": 117,
+      "y2": 43,
+      "cx": 110,
+      "cy": 37
+    },
+    {
+      "class_id": 72,
+      "class_name": "restWhole",
+      "conf": 0.7593,
+      "x1": 236,
+      "y1": 35,
+      "x2": 243,
+      "y2": 38,
+      "cx": 239,
+      "cy": 36
+    },
+    {
+      "class_id": 122,
+      "class_name": "staff",
+      "conf": 0.9051,
+      "x1": 0,
+      "y1": 29,
+      "x2": 712,
+      "y2": 55,
+      "cx": 356,
+      "cy": 42
+    },
+    {
+      "class_id": 72,
+      "class_name": "restWhole",
+      "conf": 0.8038,
+      "x1": 414,
+      "y1": 35,
+      "x2": 422,
+      "y2": 39,
+      "cx": 418,
+      "cy": 37
+    },
+    {
+      "class_id": 72,
+      "class_name": "restWhole",
+      "conf": 0.8131,
+      "x1": 558,
+      "y1": 35,
+      "x2": 567,
+      "y2": 41,
+      "cx": 562,
+      "cy": 38
+    }
+  ]
+}

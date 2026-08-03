@@ -1,0 +1,8 @@
+Image: test_subject_staff03_clean.png
+Total detections: 5
+--------------------------------------------------
+timeSigCommon                  conf=0.21  cx= 110  cy=  37  box=(104,31,117,43)
+restWhole                      conf=0.76  cx= 239  cy=  36  box=(236,35,243,38)
+staff                          conf=0.91  cx= 356  cy=  42  box=(0,29,712,55)
+restWhole                      conf=0.80  cx= 418  cy=  37  box=(414,35,422,39)
+restWhole                      conf=0.81  cx= 562  cy=  38  box=(558,35,567,41)

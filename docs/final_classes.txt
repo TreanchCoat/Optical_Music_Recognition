@@ -1,0 +1,65 @@
+# OMR — detection classes actually consumed by the MusicXML builder
+# (build_musicxml_v2 / v3) plus the pipeline stages (clef_splitter,
+# bbox_refiner, note_alignment). Everything NOT in this list can be removed
+# or merged from the 124-class taxonomy. augmentationDot is INCLUDED (dotted
+# durations are now implemented).
+#
+# 54 classes total. Merge the two "flag8th*Small" variants into the regular
+# 8th flags to get 52 (the builder maps them to "eighth" identically).
+#
+# --- one name per line (classes.txt format) ---
+
+clefG
+clefF
+clefCAlto
+clefCTenor
+clef8
+noteheadBlack
+noteheadHalf
+noteheadWhole
+noteheadDoubleWhole
+restWhole
+restHalf
+restQuarter
+rest8th
+rest16th
+rest32nd
+rest64th
+flag8thUp
+flag8thUpSmall
+flag8thDown
+flag8thDownSmall
+flag16thUp
+flag16thDown
+flag32ndUp
+flag32ndDown
+flag64thUp
+flag64thDown
+beam
+accidentalSharp
+accidentalFlat
+accidentalNatural
+accidentalDoubleSharp
+accidentalDoubleFlat
+keySharp
+keyFlat
+keyNatural
+timeSig0
+timeSig1
+timeSig2
+timeSig3
+timeSig4
+timeSig5
+timeSig6
+timeSig7
+timeSig8
+timeSig9
+timeSigCommon
+timeSigCutCommon
+ornamentTrill
+ornamentTurn
+fermataAbove
+fermataBelow
+repeatDot
+slur
+augmentationDot

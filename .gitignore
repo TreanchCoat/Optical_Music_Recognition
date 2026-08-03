@@ -1,0 +1,29 @@
+# ── Outputs / runs / data (large, regenerable) ──
+runs/
+eval_out/
+xml/
+
+# ── Archives ──
+*.rar
+*.weights
+
+# ── Documents: thesis & presentation material (not part of the codebase) ──
+*.pptx
+*.pdf
+*.docx
+*.tex
+*.bib
+# LaTeX build artifacts
+*.aux
+*.toc
+*.synctex.gz
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+# personal defense notes
+დაცვის_კითხვები_და_პასუხები.md
+დაცვის_სასაუბრო_ტექსტი.md
+
+# NOTE: model weights are intentionally tracked now.
+# (models/, *.pth and *.pt are no longer ignored, so weights can be committed.)

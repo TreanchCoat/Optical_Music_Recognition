@@ -1,0 +1,12 @@
+Image: test_subject_staff02_clean.png
+Total detections: 9
+--------------------------------------------------
+brace                          conf=0.29  cx=  94  cy=  47  box=(91,24,98,70)
+clefG                          conf=0.84  cx= 110  cy=  43  box=(104,26,117,61)
+timeSigCommon                  conf=0.23  cx= 141  cy=  42  box=(136,36,147,49)
+restWhole                      conf=0.78  cx= 240  cy=  37  box=(236,36,244,39)
+dynamicDiminuendoHairpin       conf=0.65  cx= 353  cy=  54  box=(264,50,442,58)
+staff                          conf=0.85  cx= 406  cy=  42  box=(100,30,713,54)
+restWhole                      conf=0.75  cx= 418  cy=  38  box=(414,37,423,40)
+restWhole                      conf=0.70  cx= 561  cy=  38  box=(557,37,566,40)
+dynamicCrescendoHairpin        conf=0.44  cx= 588  cy=  56  box=(557,54,619,59)

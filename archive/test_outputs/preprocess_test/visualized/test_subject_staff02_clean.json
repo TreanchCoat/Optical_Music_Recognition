@@ -1,0 +1,105 @@
+{
+  "image": "test_subject_staff02_clean.png",
+  "total_detections": 9,
+  "detections": [
+    {
+      "class_id": 0,
+      "class_name": "brace",
+      "conf": 0.2866,
+      "x1": 91,
+      "y1": 24,
+      "x2": 98,
+      "y2": 70,
+      "cx": 94,
+      "cy": 47
+    },
+    {
+      "class_id": 5,
+      "class_name": "clefG",
+      "conf": 0.8374,
+      "x1": 104,
+      "y1": 26,
+      "x2": 117,
+      "y2": 61,
+      "cx": 110,
+      "cy": 43
+    },
+    {
+      "class_id": 22,
+      "class_name": "timeSigCommon",
+      "conf": 0.2255,
+      "x1": 136,
+      "y1": 36,
+      "x2": 147,
+      "y2": 49,
+      "cx": 141,
+      "cy": 42
+    },
+    {
+      "class_id": 72,
+      "class_name": "restWhole",
+      "conf": 0.7758,
+      "x1": 236,
+      "y1": 36,
+      "x2": 244,
+      "y2": 39,
+      "cx": 240,
+      "cy": 37
+    },
+    {
+      "class_id": 113,
+      "class_name": "dynamicDiminuendoHairpin",
+      "conf": 0.648,
+      "x1": 264,
+      "y1": 50,
+      "x2": 442,
+      "y2": 58,
+      "cx": 353,
+      "cy": 54
+    },
+    {
+      "class_id": 122,
+      "class_name": "staff",
+      "conf": 0.8481,
+      "x1": 100,
+      "y1": 30,
+      "x2": 713,
+      "y2": 54,
+      "cx": 406,
+      "cy": 42
+    },
+    {
+      "class_id": 72,
+      "class_name": "restWhole",
+      "conf": 0.751,
+      "x1": 414,
+      "y1": 37,
+      "x2": 423,
+      "y2": 40,
+      "cx": 418,
+      "cy": 38
+    },
+    {
+      "class_id": 72,
+      "class_name": "restWhole",
+      "conf": 0.7035,
+      "x1": 557,
+      "y1": 37,
+      "x2": 566,
+      "y2": 40,
+      "cx": 561,
+      "cy": 38
+    },
+    {
+      "class_id": 112,
+      "class_name": "dynamicCrescendoHairpin",
+      "conf": 0.4359,
+      "x1": 557,
+      "y1": 54,
+      "x2": 619,
+      "y2": 59,
+      "cx": 588,
+      "cy": 56
+    }
+  ]
+}

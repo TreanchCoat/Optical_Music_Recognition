@@ -1,0 +1,26 @@
+{
+  "config": {
+    "manifest": "training\\muscima_manifest.json",
+    "output": "models\\smoke.pth",
+    "epochs": 1,
+    "batch_size": 2,
+    "size": 256,
+    "lr": 0.0001,
+    "num_workers": 0,
+    "val_every": 1,
+    "augment": true,
+    "resume": "",
+    "variants": "ideal"
+  },
+  "best_val_iou": 0.520488311993909,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.080043260521359,
+      "val_loss": 0.8458185827732086,
+      "val_iou": 0.520488311993909,
+      "val_acc": 0.9658831787109375,
+      "time_sec": 110.81650447845459
+    }
+  ]
+}

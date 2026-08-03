@@ -1,0 +1,259 @@
+{
+  "image": "test_subject_staff06_clean.png",
+  "total_detections": 23,
+  "detections": [
+    {
+      "class_id": 5,
+      "class_name": "clefG",
+      "conf": 0.8548,
+      "x1": 105,
+      "y1": 25,
+      "x2": 122,
+      "y2": 62,
+      "cx": 113,
+      "cy": 43
+    },
+    {
+      "class_id": 55,
+      "class_name": "keyFlat",
+      "conf": 0.7727,
+      "x1": 127,
+      "y1": 33,
+      "x2": 131,
+      "y2": 46,
+      "cx": 129,
+      "cy": 39
+    },
+    {
+      "class_id": 70,
+      "class_name": "caesura",
+      "conf": 0.205,
+      "x1": 135,
+      "y1": 27,
+      "x2": 138,
+      "y2": 33,
+      "cx": 136,
+      "cy": 30
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.7745,
+      "x1": 158,
+      "y1": 30,
+      "x2": 164,
+      "y2": 36,
+      "cx": 161,
+      "cy": 33
+    },
+    {
+      "class_id": 28,
+      "class_name": "augmentationDot",
+      "conf": 0.275,
+      "x1": 167,
+      "y1": 32,
+      "x2": 169,
+      "y2": 34,
+      "cx": 168,
+      "cy": 33
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.6854,
+      "x1": 193,
+      "y1": 36,
+      "x2": 200,
+      "y2": 42,
+      "cx": 196,
+      "cy": 39
+    },
+    {
+      "class_id": 41,
+      "class_name": "flag8thDown",
+      "conf": 0.552,
+      "x1": 193,
+      "y1": 51,
+      "x2": 200,
+      "y2": 61,
+      "cx": 196,
+      "cy": 56
+    },
+    {
+      "class_id": 25,
+      "class_name": "noteheadHalf",
+      "conf": 0.6114,
+      "x1": 230,
+      "y1": 40,
+      "x2": 236,
+      "y2": 46,
+      "cx": 233,
+      "cy": 43
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.8112,
+      "x1": 282,
+      "y1": 25,
+      "x2": 289,
+      "y2": 31,
+      "cx": 285,
+      "cy": 28
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.9106,
+      "x1": 316,
+      "y1": 26,
+      "x2": 322,
+      "y2": 31,
+      "cx": 319,
+      "cy": 28
+    },
+    {
+      "class_id": 113,
+      "class_name": "dynamicDiminuendoHairpin",
+      "conf": 0.8522,
+      "x1": 280,
+      "y1": 49,
+      "x2": 397,
+      "y2": 57,
+      "cx": 338,
+      "cy": 53
+    },
+    {
+      "class_id": 108,
+      "class_name": "slur",
+      "conf": 0.8395,
+      "x1": 288,
+      "y1": 13,
+      "x2": 391,
+      "y2": 22,
+      "cx": 339,
+      "cy": 17
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.9022,
+      "x1": 358,
+      "y1": 26,
+      "x2": 364,
+      "y2": 31,
+      "cx": 361,
+      "cy": 28
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.9056,
+      "x1": 393,
+      "y1": 25,
+      "x2": 399,
+      "y2": 31,
+      "cx": 396,
+      "cy": 28
+    },
+    {
+      "class_id": 122,
+      "class_name": "staff",
+      "conf": 0.5909,
+      "x1": 100,
+      "y1": 32,
+      "x2": 713,
+      "y2": 55,
+      "cx": 406,
+      "cy": 43
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.9047,
+      "x1": 454,
+      "y1": 25,
+      "x2": 460,
+      "y2": 31,
+      "cx": 457,
+      "cy": 28
+    },
+    {
+      "class_id": 113,
+      "class_name": "dynamicDiminuendoHairpin",
+      "conf": 0.3814,
+      "x1": 420,
+      "y1": 48,
+      "x2": 539,
+      "y2": 57,
+      "cx": 479,
+      "cy": 52
+    },
+    {
+      "class_id": 112,
+      "class_name": "dynamicCrescendoHairpin",
+      "conf": 0.4534,
+      "x1": 420,
+      "y1": 48,
+      "x2": 542,
+      "y2": 56,
+      "cx": 481,
+      "cy": 52
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.8153,
+      "x1": 496,
+      "y1": 22,
+      "x2": 503,
+      "y2": 28,
+      "cx": 499,
+      "cy": 25
+    },
+    {
+      "class_id": 108,
+      "class_name": "slur",
+      "conf": 0.6515,
+      "x1": 462,
+      "y1": 13,
+      "x2": 583,
+      "y2": 19,
+      "cx": 522,
+      "cy": 16
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.8884,
+      "x1": 543,
+      "y1": 25,
+      "x2": 550,
+      "y2": 31,
+      "cx": 546,
+      "cy": 28
+    },
+    {
+      "class_id": 113,
+      "class_name": "dynamicDiminuendoHairpin",
+      "conf": 0.246,
+      "x1": 544,
+      "y1": 54,
+      "x2": 616,
+      "y2": 58,
+      "cx": 580,
+      "cy": 56
+    },
+    {
+      "class_id": 24,
+      "class_name": "noteheadBlack",
+      "conf": 0.8364,
+      "x1": 585,
+      "y1": 25,
+      "x2": 592,
+      "y2": 30,
+      "cx": 588,
+      "cy": 27
+    }
+  ]
+}
