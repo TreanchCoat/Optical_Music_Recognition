@@ -13,6 +13,7 @@ The pipeline processes score images in multiple stages:
 * **Stage 4½ (Re-barring):** Splits the single-measure-per-staff output into proper measures based purely on time signature changes.
 
 ![Project Demo](demo.gif)
+*UI designed and implemented by [Nino Datuashvili](https://github.com/n1nni).*
 
 ## Quick Start
 
