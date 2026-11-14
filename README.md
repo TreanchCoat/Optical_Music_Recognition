@@ -14,7 +14,7 @@ The pipeline processes score images in multiple stages:
 
 ![Project Demo](demo.gif)
 
-*UI designed and implemented by [Nino Datuashvili](https://github.com/n1nni).*
+*UI designed and implemented by [Nino Dautashvili](https://github.com/n1nni).*
 
 ## Quick Start
 
