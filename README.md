@@ -12,6 +12,8 @@ The pipeline processes score images in multiple stages:
 * **Stage 4 (Assembly & MusicXML):** Assembles detections and staff geometry into MusicXML. It determines pitch from notehead positions relative to clefs/key signatures, and duration from notehead classes and beam analysis. Chords are grouped by horizontal clustering, and time signatures are interleaved as events.
 * **Stage 4½ (Re-barring):** Splits the single-measure-per-staff output into proper measures based purely on time signature changes.
 
+![Project Demo](demo.gif)
+
 ## Quick Start
 
 ### Command Line Interface (CLI)
